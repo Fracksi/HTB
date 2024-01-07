@@ -11,6 +11,7 @@ Oh no! Our IT admin is a bit of a cotton-headed ninny-muggins, ByteSparkle left 
 ## Tools utilized
 
 Volatility3 - The main tool used in the memory analysis.
+
 VBSedit  - An IDE for VBS scripting. (For anyone interested, every debug step or script run requires a minimum 5 second wait, with +1 seconds added on every additional time.)
 
 
