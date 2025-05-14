@@ -1,7 +1,6 @@
 # Machines to keep off git until allowed.
-Machines/Bizness
-Machines/Monitored
-Machines/Analysis
-Machines/Skyfall
-Machines/Jab
+# Now updated since I know the gitignore rules better
+Machines
+
+
 
